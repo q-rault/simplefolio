@@ -1,4 +1,6 @@
-# Hello This is Quentin
+# Welcome to my profile,
+# I'm Quentin Rault, full-time Web Developer since 2020.
+# See you on https://q-rault.github.io for more info.
 
 # Template by Jacobo Martínez
 
